@@ -23,7 +23,7 @@ The easiest way to get a rust toolchain is `curl https://sh.rustup.rs -sSf | sh`
 To build minigrep just invoke 
 
 ```
-cargo build --relaeas
+cargo build --release
 ```
 
 ## Running the tests
